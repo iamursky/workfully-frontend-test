@@ -1,0 +1,212 @@
+[
+  {
+    "id": 170876990,
+    "name": ".github",
+    "stars": 668,
+    "forks": 2102,
+    "url": "https://github.com/github/.github"
+  },
+  {
+    "id": 632088451,
+    "name": "accessibility-alt-text-bot",
+    "stars": 16,
+    "forks": 0,
+    "url": "https://github.com/github/accessibility-alt-text-bot"
+  },
+  {
+    "id": 95114338,
+    "name": "accessibilityjs",
+    "stars": 2180,
+    "forks": 72,
+    "url": "https://github.com/github/accessibilityjs"
+  },
+  {
+    "id": 221181294,
+    "name": "actions-cheat-sheet",
+    "stars": 193,
+    "forks": 35,
+    "url": "https://github.com/github/actions-cheat-sheet"
+  },
+  {
+    "id": 487920697,
+    "name": "actions-oidc-debugger",
+    "stars": 26,
+    "forks": 7,
+    "url": "https://github.com/github/actions-oidc-debugger"
+  },
+  {
+    "id": 444856506,
+    "name": "actions-oidc-gateway-example",
+    "stars": 55,
+    "forks": 8,
+    "url": "https://github.com/github/actions-oidc-gateway-example"
+  },
+  {
+    "id": 523148581,
+    "name": "activerecord-trilogy-adapter",
+    "stars": 129,
+    "forks": 16,
+    "url": "https://github.com/github/activerecord-trilogy-adapter"
+  },
+  {
+    "id": 458364565,
+    "name": "advisory-database",
+    "stars": 1366,
+    "forks": 199,
+    "url": "https://github.com/github/advisory-database"
+  },
+  {
+    "id": 23872149,
+    "name": "AFNetworking",
+    "stars": 28,
+    "forks": 18,
+    "url": "https://github.com/github/AFNetworking"
+  },
+  {
+    "id": 15929,
+    "name": "albino",
+    "stars": 222,
+    "forks": 38,
+    "url": "https://github.com/github/albino"
+  },
+  {
+    "id": 24237267,
+    "name": "aptly",
+    "stars": 13,
+    "forks": 9,
+    "url": "https://github.com/github/aptly"
+  },
+  {
+    "id": 6341383,
+    "name": "Archimedes",
+    "stars": 469,
+    "forks": 49,
+    "url": "https://github.com/github/Archimedes"
+  },
+  {
+    "id": 235645931,
+    "name": "archive-program",
+    "stars": 2953,
+    "forks": 271,
+    "url": "https://github.com/github/archive-program"
+  },
+  {
+    "id": 183654341,
+    "name": "argo-ml",
+    "stars": 23,
+    "forks": 12,
+    "url": "https://github.com/github/argo-ml"
+  },
+  {
+    "id": 18499964,
+    "name": "aroma",
+    "stars": 4,
+    "forks": 6,
+    "url": "https://github.com/github/aroma"
+  },
+  {
+    "id": 128214981,
+    "name": "auto-check-element",
+    "stars": 151,
+    "forks": 47,
+    "url": "https://github.com/github/auto-check-element"
+  },
+  {
+    "id": 129146927,
+    "name": "auto-complete-element",
+    "stars": 325,
+    "forks": 79,
+    "url": "https://github.com/github/auto-complete-element"
+  },
+  {
+    "id": 417656389,
+    "name": "automatic-contrib-prs",
+    "stars": 11,
+    "forks": 13,
+    "url": "https://github.com/github/automatic-contrib-prs"
+  },
+  {
+    "id": 7444548,
+    "name": "aws-s3",
+    "stars": 12,
+    "forks": 14,
+    "url": "https://github.com/github/aws-s3"
+  },
+  {
+    "id": 34767010,
+    "name": "azure-quickstart-templates",
+    "stars": 27,
+    "forks": 32,
+    "url": "https://github.com/github/azure-quickstart-templates"
+  },
+  {
+    "id": 152236126,
+    "name": "babel-plugin-ensure-name-for-custom-elements",
+    "stars": 9,
+    "forks": 8,
+    "url": "https://github.com/github/babel-plugin-ensure-name-for-custom-elements"
+  },
+  {
+    "id": 74533571,
+    "name": "babel-plugin-transform-custom-element-classes",
+    "stars": 85,
+    "forks": 18,
+    "url": "https://github.com/github/babel-plugin-transform-custom-element-classes"
+  },
+  {
+    "id": 97981969,
+    "name": "babel-plugin-transform-invariant-location",
+    "stars": 11,
+    "forks": 7,
+    "url": "https://github.com/github/babel-plugin-transform-invariant-location"
+  },
+  {
+    "id": 144169928,
+    "name": "babel-preset-github",
+    "stars": 105,
+    "forks": 13,
+    "url": "https://github.com/github/babel-preset-github"
+  },
+  {
+    "id": 19462601,
+    "name": "backstop",
+    "stars": 11,
+    "forks": 11,
+    "url": "https://github.com/github/backstop"
+  },
+  {
+    "id": 21622084,
+    "name": "backup-utils",
+    "stars": 1095,
+    "forks": 730,
+    "url": "https://github.com/github/backup-utils"
+  },
+  {
+    "id": 62674936,
+    "name": "balanced-employee-ip-agreement",
+    "stars": 2038,
+    "forks": 172,
+    "url": "https://github.com/github/balanced-employee-ip-agreement"
+  },
+  {
+    "id": 8287205,
+    "name": "banana_phone",
+    "stars": 12,
+    "forks": 16,
+    "url": "https://github.com/github/banana_phone"
+  },
+  {
+    "id": 365026320,
+    "name": "bellevue-murals",
+    "stars": 5,
+    "forks": 3,
+    "url": "https://github.com/github/bellevue-murals"
+  },
+  {
+    "id": 56352205,
+    "name": "bert",
+    "stars": 13,
+    "forks": 17,
+    "url": "https://github.com/github/bert"
+  }
+]

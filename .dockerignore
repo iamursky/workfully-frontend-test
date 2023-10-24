@@ -1,0 +1,9 @@
+.dockerignore
+.git
+.next
+**/*.cy.ts
+**/*.cy.tsx
+Dockerfile
+node_modules
+pnpm-debug.log
+README.md
